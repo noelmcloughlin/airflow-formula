@@ -100,6 +100,7 @@ RedHat:
         # for funtionality
         - mariadb-devel
         - krb5-devel
+        - graphviz     # export dag structure as image
 Suse:
   pkg:
     airflow:
